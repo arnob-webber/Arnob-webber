@@ -8,7 +8,11 @@
 
 ###
 
-<div align="left">
+<br>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -34,7 +38,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="youtube.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="24" alt="youtube logo"  />
   </a>
