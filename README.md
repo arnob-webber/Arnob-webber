@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h4 align="center">hi😏 i'm Arnob. I've been doing this for two years now. I love making websites and web apps look great and work smoothly. Let's team up and create something amazing!</h4>
+<h4 align="center"your website looks a bit off, i can help fix that</h4>
 
 ###
 
