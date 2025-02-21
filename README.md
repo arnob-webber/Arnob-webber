@@ -27,8 +27,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 📫 How to Reach Me
 
 - 📧 Email: [arnob.webber@example.com](mailto:arnob.webber@example.com)
-- 💼 LinkedIn: [Arnob Webber](https://www.linkedin.com/in/arnob-webber)
+- 💼 LinkedIn: [Arnob Webber](https://www.linkedin.com/in/arnobcodes/)
 - 🐦 Twitter: [@arnob_webber](https://twitter.com/arnob_webber)
+- Instagram : [@arnob](https://www.instagram.com/thewebber.man/)
 
 ## 📝 Latest Blog Posts
 
